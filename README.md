@@ -18,6 +18,10 @@ To achieve this, the GPT guides users through a step-by-step, multiple-choice pr
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Luxury Shopping](https://chat.openai.com/g/g-kupWXAlb3-luxury-shopping)
+<br>
+[Sports Product](https://github.com/sourceduty/Sports_Product)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

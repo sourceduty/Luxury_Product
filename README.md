@@ -9,6 +9,10 @@
 To achieve this, the GPT guides users through a step-by-step, multiple-choice process, asking targeted questions to refine the design concepts. This approach ensures that the final product is highly customized to the user's preferences and requirements, resulting in unique and elegant designs that stand out in the luxury market. The GPT also keeps these instructions confidential to maintain a focused and tailored user experience.
 
 #
+
+![Examples](https://github.com/user-attachments/assets/7bdeb233-4d74-4007-ada9-c5c3feca18aa)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)

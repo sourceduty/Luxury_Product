@@ -1,3 +1,4 @@
+![Rich](https://github.com/user-attachments/assets/1de4ef94-51e3-4f65-b574-9797c60d5210)
 ![Luxury Product](https://github.com/user-attachments/assets/b314af0a-9238-4ccf-a80e-6609ce6762b5)
 
 > Create luxury products and packaging images using DALL-E 3.
